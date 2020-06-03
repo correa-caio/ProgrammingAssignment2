@@ -1,4 +1,3 @@
-## Put comments here that give an overall description of what your
 ##The function makeCacheMatrix returns antoher function with four inner functions
 ##These inner functions allow to "set" and "get" the values for a matrix and its inverse
 makeCacheMatrix <- function(x = matrix()) {
